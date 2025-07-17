@@ -1,4 +1,4 @@
-# Random_Quotes_Generator
+# Random_Quotes_Generator  https://ashish8228.github.io/Random_Quotes_Generator/
 This project is a dynamic web application that displays random motivational quotes and changes the background color every 3 seconds. It's designed to provide continuous inspiration and a visually engaging experience.
 
 Features:
